@@ -1,0 +1,78 @@
+Body{
+	margin: 0;
+	font-family: Helvetica, Arial, sans-serif;
+	font-size: 20px;
+	line-height: 30px;
+}
+
+header{
+    background-color: #D86315;
+    text-align: center;
+    padding-top: 80px;
+    padding-bottom: 30px;
+}
+
+h1, h2{
+	font-family: 'Meow Script', cursive;
+}
+
+header h1{
+	color: white;
+	font-size: 70px;
+}
+
+header img{
+    border-radius: 250px;
+    width: 560px;
+    border: 15px solid white;
+}
+
+
+
+main{
+	max-width: 800px;
+	margin: 0 auto;
+	padding: 20px 80px;
+}
+
+main img{
+	max-width: 100%;
+}
+
+h2{
+	font-size: 40px;
+	color: #D86315;
+	margin: 40px 0 10px;
+}
+
+a{
+	color: #D86315;
+}
+
+a:hover{
+		color: white;
+		background-color: #483a94;
+}
+
+footer{
+	background-color: #D86315;
+    text-align: center;
+    color: white;
+    padding: 40px;
+}
+
+footer a{
+	color: white;
+}
+
+footer a:hover{
+	opacity: .5;
+	color: #D86315;
+	background-color: transparent;
+}
+
+p.caption{
+	color: #999999;
+	font-style: italic;
+	margin-top: 10px;
+}
